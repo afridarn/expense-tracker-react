@@ -7,7 +7,7 @@ const DUMMY_EXPENSES = [
     id: 1,
     title: "Senka Facial Wash",
     amount: "44000",
-    date: new Date(2023, 5, 23),
+    date: new Date(2023, 4, 23),
   },
   {
     id: 2,
